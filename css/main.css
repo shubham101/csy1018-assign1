@@ -45,7 +45,7 @@ body {
     border-radius: 10px;
     font-size: 17.2px;
     background-color: white;
-    background-image: url("searchs.png");
+    background-image: url("images/search.png");
     background-position: 3px 6px;
     background-repeat: no-repeat;
     padding: 9px 30px 5px 40px;
@@ -426,6 +426,11 @@ div.six textarea:focus {
   font-size: 30px;
   margin-top: -15px;
   text-transform: capitalize;
+}
+
+.set{
+  width: 100%
+  display: inline-block;
 }
 
 .top {
